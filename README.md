@@ -1,15 +1,27 @@
 # cmatrix-windows
 
-hello ive made cmatrix for windows with REAL cmatrix command in cmd so you can open a cmd window and type "cmatrix" and it will open!
 
-# whats cmatrix? 
+Hello! I've made **CMatrix for Windows** with the real cmatrix command in CMD.
 
-its a tool that makes your terminal rain letters its from a movie
+You can open a CMD window and type:
 
-# how to download and install
+cmatrix
 
-1. download cmatrix from here: LINK
-2. open the exe file
-3. install it
-4. open a cmd window and type "cmatrix"
-5. and its done!
+And it will open!
+
+# What's CMatrix?
+
+CMatrix is a tool that makes your terminal rain letters and characters. It's inspired by The Matrix movie.
+
+# How to Download and Install
+Download CMatrix from here: LINK
+Open the .exe file.
+Install it.
+Open a CMD window.
+Type:
+cmatrix
+Press Enter.
+
+And that's it! CMatrix should start running in your CMD window.
+
+Have fun!
