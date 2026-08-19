@@ -14,13 +14,10 @@ And it will open!
 CMatrix is a tool that makes your terminal rain letters and characters. It's inspired by The Matrix movie.
 
 # How to Download and Install
-Download CMatrix from here: LINK
-Open the .exe file.
-Install it.
-Open a CMD window.
-Type:
-cmatrix
-Press Enter.
+1. Download CMatrix from here: LINK
+2. Open the .exe file and Install it.
+3. Open a CMD window.
+4. Type: cmatrix and Press Enter.
 
 And that's it! CMatrix should start running in your CMD window.
 
